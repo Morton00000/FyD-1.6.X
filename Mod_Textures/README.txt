@@ -29,13 +29,14 @@ Forestry-Magic_Bees ----------- ???
 Forestry-Plug-ins ------------- ???
 Forge_Multipart --------------- 1.0.0.134
 Gate_Copy --------------------- ???
-IC2 --------------------------- 1.118.401-lf
-IC2-Advanced_Machines --------- 56.0.0
+IC2 --------------------------- 2.0.74-experimental
+IC2-Advanced_Machines --------- ???
+IC2-Advanced_Machines(immibis)- 56.0.0 *removed from build path
 IC2-Advanced_Power_Management - 1.2.79
-IC2-Advanced_Solar_Panels ----- ???
+IC2-Advanced_Solar_Panels ----- 3.3.8
 IC2-Charge_Pads --------------- 2.8.0.93
 IC2-Compact_Solars ------------ 4.4.0.110
-IC2-Gravi_Suite --------------- ???
+IC2-Gravi_Suite --------------- 1.9.5
 IC2-GregTech ------------------ 4.01f
 IC2-MFFS ---------------------- ???
 IC2-MFFS_Cal ------------------ v3.3.0.217
