@@ -1,45 +1,44 @@
 Versions:
 
-Applied_Energistics ----------- rv12-b-mc162
+Applied_Energistics ----------- rv13-rc8-mc162
 BC4 --------------------------- A-4.0.1
 BC4-Logistics_Pipes ----------- ???
 Biblio_Craft ------------------ v1.4.0
 Biblio_Woods-BOP -------------- v1.2
 Biblio_Woods-Forestry --------- v1.2
-Biomes-O-Plenty --------------- 0.6.1
+Biomes-O-Plenty --------------- 0.6.2
 CB-Chicken_Chunks ------------- 1.3.3.1
 CB-Ender_Storage -------------- 1.4.3.3
+CB-Translocator --------------- 1.1.0.8
 CB-WR-CBE --------------------- 1.4.0.4
 CoFH-Core --------------------- ???
 CoFH-Omni_Tools --------------- ???
 CoFH-Thermal_Expansion -------- ???
 Computer_Craft ---------------- 1.56
-Damage_Indicators ------------- ???
-DartCraft --------------------- ???
+DartCraft --------------------- Beta 0.2.03
 Den_Pipes --------------------- ???
 Dimensional_Doors ------------- ???
 EE3 --------------------------- ???
 Enchanting_Plus --------------- 1.16.4
-ExtraUtils -------------------- 0.3 Prerelease
+ExtraUtils -------------------- 0.3 Prerelease 3a
 Factorization ----------------- 0.8.04beta2
 Flatsigns --------------------- ???
 Forestry ---------------------- A-2.3.0.0
-Forestry-Binnie_Mods ---------- ???
+Forestry-Binnie_Mods ---------- 1.8-dev1
 Forestry-Magic_Bees ----------- ???
 Forestry-Plug-ins ------------- ???
-Forge_Multipart --------------- 1.0.0.134
+Forge_Multipart --------------- 1.0.0.144
 Gate_Copy --------------------- ???
-IC2 --------------------------- 2.0.74-experimental
+IC2 --------------------------- 2.0.82-experimental
 IC2-Advanced_Machines --------- ???
 IC2-Advanced_Machines(immibis)- 56.0.0 *removed from build path
 IC2-Advanced_Power_Management - 1.2.79
 IC2-Advanced_Solar_Panels ----- 3.3.8
 IC2-Charge_Pads --------------- 2.8.0.93
-IC2-Compact_Solars ------------ 4.4.0.110
+IC2-Compact_Solars ------------ 4.4.10.113
 IC2-Gravi_Suite --------------- 1.9.5
 IC2-GregTech ------------------ 4.01f
 IC2-MFFS ---------------------- ???
-IC2-MFFS_Cal ------------------ v3.3.0.217
 IC2-Nuclear_Control ----------- 1.6.2
 iChun-GravityGun -------------- 2.0.0
 iChun-Hats -------------------- 2.0.0
@@ -51,7 +50,7 @@ Misc_Peripherals -------------- 3.4b2
 MPS --------------------------- 0.8.0-645
 MPS-Add-ons ------------------- ???
 Mystcraft --------------------- 0.10.6.00
-Natura ------------------------ 2.1.5
+Natura ------------------------ 2.1.7
 NEI --------------------------- 1.6.1.2
 NEI-Add-ons ------------------- 1.9.0.r40
 NEI-Plug-ins ------------------ ???
@@ -65,8 +64,8 @@ Project_Red ------------------- 4.0.0pre.37
 Railcraft --------------------- 8.0.0.0
 Reliquary --------------------- ???
 SoulShards -------------------- ???
-StevesCarts_2 ----------------- 2.0.0.a125
-TConstruct -------------------- 1.4.dev.29.2
+StevesCarts_2 ----------------- 2.0.0.a126
+TConstruct -------------------- 1.4.dev.30.2
 Thaumcraft_3 ------------------ ???
 Thaumic_Tinkerer -------------- ???
 Twilight_Forest --------------- 1.19.0
