@@ -3,6 +3,7 @@ Versions:
 Applied_Energistics ----------- rv13-rc8-mc162
 BC4 --------------------------- A-4.0.1
 BC4-Logistics_Pipes ----------- ???
+BetterGrassAndLeavesMod ------- v1.6.2.H
 Biblio_Craft ------------------ v1.4.0
 Biblio_Woods-BOP -------------- v1.2
 Biblio_Woods-Forestry --------- v1.2
