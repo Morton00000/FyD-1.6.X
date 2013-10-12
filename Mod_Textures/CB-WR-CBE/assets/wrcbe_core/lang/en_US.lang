@@ -1,0 +1,19 @@
+death.attack.bolt=%1$s was hit by REther Lightning.
+item.wrcbe_core:obsidianStick.name=Obsidian Stick
+item.wrcbe_core:stoneBowl.name=Stone Bowl
+item.wrcbe_core:retherPearl.name=REther Pearl
+item.wrcbe_core:wirelessTransceiver.name=Wireless Transceiver
+item.wrcbe_core:blazeTransceiver.name=Blaze Transceiver
+item.wrcbe_core:recieverDish.name=Receiver Dish
+item.wrcbe_core:blazeRecieverDish.name=Blaze Receiver Dish
+
+wrcbe_core.button.simple=Simple
+wrcbe_core.button.advanced=Advanced
+wrcbe_core.button.set=set
+wrcbe_core.button.colour=Phase Shift
+wrcbe_core.button.setname=Set Name
+wrcbe_core.button.remname=Remove
+wrcbe_core.label.value=Value
+wrcbe_core.label.name=Frequency Name
+wrcbe_core.label.colour=Spectrum
+wrcbe_core.label.freq=Frequency

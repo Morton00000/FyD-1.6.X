@@ -1,0 +1,7 @@
+tile.compactsolars:HV_block.name=Panneaux solaires haute tension
+tile.compactsolars:MV_block.name=Panneaux solaires moyenne tension
+tile.compactsolars:LV_block.name=Panneaux solaires basse tension
+
+item.compactsolars:solarHatHV.name=Casque solaire haute tension
+item.compactsolars:solarHatMV.name=Casque solaire moyenne tension
+item.compactsolars:solarHatLV.name=Casque solaire basse tension

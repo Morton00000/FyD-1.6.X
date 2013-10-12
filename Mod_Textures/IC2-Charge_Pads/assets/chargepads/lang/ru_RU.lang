@@ -1,0 +1,74 @@
+# Language: Русский (Россия)
+# Author: VBB
+
+#
+# Creative Tab
+#
+itemGroup.ChargePads=Charge Pads
+
+#
+# Damage sources
+#
+death.attack.chargePads.electrocution=%1$s умер от удара током
+death.attack.chargePads.emitter.radiation=%1$s умер от радиационного излучения
+
+#
+# Charge Pads
+#
+item.chargePad.LV.name=Статическая заряжающая панель
+item.chargePad.MV.name=Кристальная заряжающая панель
+item.chargePad.HV.name=Экспериментальная заряжающая панель
+item.chargePad.EV.name=Расщепляющая заряжающая панель
+
+#
+# Upgrade Kits
+#
+chargepads.upgradeKit.wrongside=Необходимо использовать это в нижней части заряжающей панели.
+chargepads.upgradeKit.zap=Панель активна и заряжает вас!
+
+item.upgradeKit.crystalizor.name=Кристальный набор улучшения
+item.upgradeKit.mfs.name=МФСУ улучшение
+item.upgradeKit.lapotronic.name=Экспериментальный набор улучшения
+item.upgradeKit.fission.name=Расщепляющий набор улучшения
+
+item.upgradeKit.unknown.name=Неизвестное улучшение
+
+#
+# Upgrade Modules
+#
+item.chargePads.upgBasic.efficiency.name=Улучшение «Эффективность»
+item.chargePads.upgEmitter.drain.name=Модуль «Поглотитель»
+item.chargePads.upgEmitter.damage.name=Модуль «Уничтожитель»
+item.chargePads.upgEmitter.armour_priority.name=Модуль «Заряжатель брони»
+item.chargePads.upgProjector.proximity.name=Модуль «Близость»
+item.chargePads.upgProjector.wide_band.name=Модуль «Расширитель»
+item.chargePads.upgProjector.field_i.name=Дистанционный модуль
+item.chargePads.upgProjector.field_ii.name=Дистанционный модуль
+item.chargePads.upgProjector.field_iii.name=Дистанционный модуль
+
+item.chargePads.upgEmitter.unknown.name=Неизвестный модуль
+
+#
+# Charge Pads: GUI
+#
+gui.chargePads.current=еЭ  : %d
+gui.chargePads.maximum=Макс.: %d
+
+#
+# Upgrade Modules: Tooltip (strength colours are net.minecraft.util.EnumChatFormatting enumerates)
+#
+chargePads.emitter.restricted=Ограниченние
+chargePads.emitter.restricted.slot=излучающий слот
+chargePads.emitter.restricted.nopvp=ОТКЛЮЧЁН
+
+chargePads.emitter.modulation=Модуляция
+chargePads.emitter.modulation.projector=прожектор
+chargePads.emitter.modulation.field=поле
+
+chargePads.emitter.strength=Сила
+chargePads.emitter.strength.1.name=Alpha
+chargePads.emitter.strength.2.name=Delta
+chargePads.emitter.strength.3.name=Theta
+chargePads.emitter.strength.1.colour=GRAY
+chargePads.emitter.strength.2.colour=AQUA
+chargePads.emitter.strength.3.colour=RED

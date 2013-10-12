@@ -1,0 +1,74 @@
+# Language: Deutsch (Deutschland)
+# Author: Vexatos
+
+#
+# Creative Tab
+#
+itemGroup.ChargePads=Charge Pads
+
+#
+# Damage sources
+#
+death.attack.chargePads.electrocution=%1$s starb durch einen Schock
+death.attack.chargePads.emitter.radiation=%1$s starb durch Emitter-Strahlung
+
+#
+# Charge Pads
+#
+item.chargePad.LV.name=Statisches Ladepad
+item.chargePad.MV.name=Kristallisations-Ladepad
+item.chargePad.HV.name=Lapotronisches Ladepad
+item.chargePad.EV.name=Kernspaltungs-Ladepad
+
+#
+# Upgrade Kits
+#
+chargepads.upgradeKit.wrongside=Du musst das auf der Unterseite des Ladepads benutzen.
+chargepads.upgradeKit.zap=Das Pad ist aktiv und verpasst dir einen Stromschlag!
+
+item.upgradeKit.crystalizor.name=Kristallisations-Upgrade-Bausatz
+item.upgradeKit.mfs.name=MFS-Einheits-Upgrade
+item.upgradeKit.lapotronic.name=Lapotronischer Upgrade-Bausatz
+item.upgradeKit.fission.name=Kernspaltungs-Upgrade-Bausatz
+
+item.upgradeKit.unknown.name=Unbekanntes Upgrade
+
+#
+# Upgrade Modules
+#
+item.chargePads.upgBasic.efficiency.name=Effizienz-Upgrade
+item.chargePads.upgEmitter.drain.name=Energieentzugs-Umwandlungsmodul
+item.chargePads.upgEmitter.damage.name=Schadens-Umwandlungsmodul
+item.chargePads.upgEmitter.armour_priority.name=Rüstungs-Prioritätsmodul
+item.chargePads.upgProjector.proximity.name=Proximitäts-Boostermodul
+item.chargePads.upgProjector.wide_band.name=Breitband-Boostermodul
+item.chargePads.upgProjector.field_i.name=Feldausweitungsmodul
+item.chargePads.upgProjector.field_ii.name=Feldausweitungsmodul
+item.chargePads.upgProjector.field_iii.name=Feldausweitungsmodul
+
+item.chargePads.upgEmitter.unknown.name=Unbekanntes Modul
+
+#
+# Charge Pads: GUI
+#
+gui.chargePads.current=EU  : %d
+gui.chargePads.maximum=Max.: %d
+
+#
+# Upgrade Modules: Tooltip (strength colours are net.minecraft.util.EnumChatFormatting enumerates)
+#
+chargePads.emitter.restricted=Eingeschränkt
+chargePads.emitter.restricted.slot=Emitter-Slot
+chargePads.emitter.restricted.nopvp=DEAKTIVIERT
+
+chargePads.emitter.modulation=Modulation
+chargePads.emitter.modulation.projector=Projektor
+chargePads.emitter.modulation.field=Feld
+
+chargePads.emitter.strength=Stärke
+chargePads.emitter.strength.1.name=Alpha
+chargePads.emitter.strength.2.name=Delta
+chargePads.emitter.strength.3.name=Theta
+chargePads.emitter.strength.1.colour=GRAY
+chargePads.emitter.strength.2.colour=AQUA
+chargePads.emitter.strength.3.colour=RED

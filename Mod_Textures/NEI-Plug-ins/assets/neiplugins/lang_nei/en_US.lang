@@ -1,0 +1,66 @@
+nei.options.neiplugins=NEIPlugins
+
+nei.options.neiplugins.recipesdisable=Disable recipe handler
+
+nei.options.neiplugins.recipesdisable.furnacerecipehandler=Furnace
+nei.options.neiplugins.recipesdisable.fireworkrecipehandler=Firework
+nei.options.neiplugins.recipesdisable.fuelrecipehandler=Fuel
+
+nei.options.neiplugins.developer=Options for developers
+
+nei.options.neiplugins.developer.showUsageInOreDictionary=Show item usage In Ore Dictionary
+nei.options.neiplugins.developer.showUsageInOreDictionary.true=Yes
+nei.options.neiplugins.developer.showUsageInOreDictionary.false=No
+
+nei.options.neiplugins.developer.showFluidInfoInFluidDictionary=Show fluid info in Fluid Dictionary
+nei.options.neiplugins.developer.showFluidInfoInFluidDictionary.true=Yes
+nei.options.neiplugins.developer.showFluidInfoInFluidDictionary.false=No
+
+nei.options.neiplugins.developer.showOreDictionaryNames=Show Ore Dictionary names for items
+nei.options.neiplugins.developer.showOreDictionaryNames.true=Yes
+nei.options.neiplugins.developer.showOreDictionaryNames.false=No
+
+nei.options.neiplugins.update=Update settings
+
+nei.options.neiplugins.update.checkUpdate=Check updates
+nei.options.neiplugins.update.checkUpdate.true=Yes
+nei.options.neiplugins.update.checkUpdate.false=No
+
+nei.options.neiplugins.update.checkAllUpdates=Check updates for all mods
+nei.options.neiplugins.update.checkAllUpdates.true=Yes
+nei.options.neiplugins.update.checkAllUpdates.false=No
+
+nei.options.neiplugins.update.checkUpdateNow=Run update check
+
+nei.options.neiplugins.fueltooltip=Fuel tooltip settings
+
+nei.options.neiplugins.fueltooltip.enableContextTooltip=Enable context tooltips
+nei.options.neiplugins.fueltooltip.enableContextTooltip.true=Yes
+nei.options.neiplugins.fueltooltip.enableContextTooltip.false=No
+
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidContainer=Show tooltips for Liquid Containers
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidContainer.true=Yes
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidContainer.false=No
+
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidItem=Show tooltips for Liquids
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidItem.true=Yes
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidItem.false=No
+
+nei.options.neiplugins.fueltooltip.showTooltipInFluidRegistry=Show tooltips in Liquid Registry
+nei.options.neiplugins.fueltooltip.showTooltipInFluidRegistry.true=Yes
+nei.options.neiplugins.fueltooltip.showTooltipInFluidRegistry.false=No
+
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidsInGui=Show tooltips for liquids in GUI
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidsInGui.true=Yes
+nei.options.neiplugins.fueltooltip.showTooltipForLiquidsInGui.false=No
+
+nei.options.neiplugins.fueltooltip.showTooltipForItemStack=Show tooltips for items
+nei.options.neiplugins.fueltooltip.showTooltipForItemStack.true=Yes
+nei.options.neiplugins.fueltooltip.showTooltipForItemStack.false=No
+
+nei.options.neiplugins.showForestryPowerInfoTooltip=Show Power Info tooltip for Forestry machines
+nei.options.neiplugins.showForestryPowerInfoTooltip.true=Yes
+nei.options.neiplugins.showForestryPowerInfoTooltip.false=No
+
+nei.options.keys.neiplugins=NEIPlugins
+nei.options.keys.neiplugins.recipeList=NEIPlugins Menu (Inventory) 

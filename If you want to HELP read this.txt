@@ -4,11 +4,13 @@ This also means that if some one does textures for these things it will likely b
 *Tree Logs (just so much stuff)
 *Leaves (just so much stuff)
 *Saplings (just so much stuff)
-*Planks (just so much stuff)
+*Planks (just so much stuff) **These need to match my new vanilla planks (sorry!)
 
 Extra Trees Mix Patterns (just so much stuff)
 
 Anything to do with Biblio Craft (nothing against the creator I just hate models)
+
+Anything to do with Power Crystals (nothing against the creator it just may take me awhile to start on it)
 
 Anything that doesn't already have a texture in Metallurgy (just so much stuff)
 
@@ -21,3 +23,4 @@ BOP
 Forestry
 Extra Trees (Binnie Mods)
 Natura
+The MCPatcher-Optifine folder under assets\minecraft\mcpatcher\ctm\wood

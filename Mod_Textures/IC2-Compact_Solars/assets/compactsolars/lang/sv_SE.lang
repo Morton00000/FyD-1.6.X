@@ -1,0 +1,6 @@
+tile.compactsolars:HV_block.name=Högspänningssolpanel
+tile.compactsolars:MV_block.name=Mellanspänningssolpanel
+tile.compactsolars:LV_block.name=Lågspänningssolpanel
+item.compactsolars:solarHatHV.name=Högspänningssolhatt
+item.compactsolars:solarHatMV.name=Mellanspänningssolhatt
+item.compactsolars:solarHatLV.name=Lågspänningssolhatt
