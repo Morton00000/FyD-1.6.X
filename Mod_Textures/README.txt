@@ -64,7 +64,11 @@ PC-Power_Converters ----------- 1.6.4-10
 Project_Red ------------------- 4.0.0pre.37
 Railcraft --------------------- 8.1.0.0
 Reliquary --------------------- ???
-RotaryCraft ------------------- 1.6 v4
+Reika-DyeTrees ---------------- 1.6
+Reika-GeoStrata --------------- 1.6
+Reika-ReactorCraft ------------ 1.6
+Reika-RotaryCraft ------------- 1.6 v4
+Reika-UsefulTNT --------------- 1.6
 SoulShards -------------------- ???
 StevesCarts_2 ----------------- 2.0.0.a132
 TConstruct -------------------- 1.5.0d2

@@ -4,7 +4,7 @@ This also means that if some one does textures for these things it will likely b
 *Tree Logs (just so much stuff)
 *Leaves (just so much stuff)
 *Saplings (just so much stuff)
-*Planks (just so much stuff) **These need to match my new vanilla planks (sorry!)
+*Planks (just so much stuff) **These need to match my new planks (sorry!)
 
 Extra Trees Mix Patterns (just so much stuff)
 
@@ -23,4 +23,3 @@ BOP
 Forestry
 Extra Trees (Binnie Mods)
 Natura
-The MCPatcher-Optifine folder under assets\minecraft\mcpatcher\ctm\wood
