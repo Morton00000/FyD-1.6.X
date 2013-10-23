@@ -1,0 +1,22 @@
+v 1.0.3.0
+- Updated for MC 1.6.4
+
+v 1.0.2.3
+- Added language files and Spanish translation.
+- IDs now are configurable.
+
+v 1.0.2.2
+- Added configuration file.
+- Merged Normal version with the Hardcore.
+
+v 1.0.2.1
+- Added cheaper recipe for lead.
+
+v 1.0.2.0
+- Updated to 1.6.2.
+
+v 1.0.1.0
+- Added crafting recipe of the name tag.
+
+v 1.0.0.0
+- Initial Release
