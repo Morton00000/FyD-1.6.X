@@ -1,0 +1,59 @@
+commands.myst.tpx.usage=/tpx [subject:player] <target:player | target:dim [x y z]>
+commands.myst.tpx.fail.nosubject=Teleport subject invalid. No tp.
+commands.myst.tpx.fail.noworld=Could not get world for dimension %d. No tp.
+
+commands.myst.time.usage=/time <set|add> <value> [dim]
+commands.myst.time.fail.noworld=Target Dimension is not Loaded
+commands.myst.time.set=Set the time to %d in dimension %d
+commands.myst.time.set.all=Set the time to %d in all dimensions
+commands.myst.time.added=Added %d to the time in dimension %d
+commands.myst.time.added.all=Added %d to the time in all dimensions
+
+commands.myst.toggledownfall.usage=/toggledownfall [dim]
+commands.myst.downfall.success=Toggled downfall in dimension %d
+commands.myst.downfall.fail.nodim=No dimension set.
+
+commands.myst.agebook.usage=/myst-agebook [dim]
+commands.myst.twi.usage=/myst-twi [dim] [true|false]
+commands.myst.meteor.usage=/myst-spawnmeteor
+commands.myst.permissions.usage=/myst-permissions <player> <restrict|permit> <entry|depart> <all|dimid>
+commands.myst.chunkregen.usage=/myst-regenchunk [range] [dimId] [chunkX] [chunkZ]
+
+tile.myst.receptacle.name=Book Receptacle
+tile.myst.unstable.name=Decay Effect
+tile.myst.unstable.blue.name=Blue Decay
+tile.myst.unstable.red.name=Red Decay
+tile.myst.unstable.purple.name=Purple Decay
+tile.myst.unstable.white.name=White Decay
+tile.myst.unstable.black.name=Black Decay
+tile.myst.crystal.name=Crystal
+tile.myst.lectern.name=Lectern
+tile.myst.bookstand.name=Bookstand
+tile.myst.linkmodifier.name=Link Modifier
+tile.myst.bookbinder.name=Book Binder
+tile.myst.inkmixer.name=Ink Mixer
+tile.myst.linkportal.name=Link Portal
+tile.myst.starfissure.name=Star Fissure
+tile.myst.writing_desk.name=Writing Desk
+
+item.myst.agebook.name=Descriptive Book
+item.myst.linkbook.name=Linking book
+item.myst.notebook.name=Notebook
+item.myst.page.name=Page
+item.myst.unlinkedbook.name=Unlinked Link Book
+item.myst.writingdesk.name=Writing Desk
+item.myst.vial.name=Ink Vial
+
+fluid.myst.ink.black=Black Ink
+tile.myst.fluid.myst.ink.black.name=Black Ink
+
+achievement.myst.symbol=Small Step of the Journey
+achievement.myst.symbol.desc=Find a Symbol
+achievement.myst.write=The Art: A Primer
+achievement.myst.write.desc=Copy A Symbol
+achievement.myst.agebook=One Way Ticket
+achievement.myst.agebook.desc=Craft a Descriptive Book. Don't forget it's a one way trip!
+achievement.myst.linkbook=Tie a String
+achievement.myst.linkbook.desc=Craft a Linking Book. Good, now you can get back!
+achievement.myst.quinn=Call Me Quinn
+achievement.myst.quinn.desc=Travel to a dimension without a linking book. Better hope there's a way out!

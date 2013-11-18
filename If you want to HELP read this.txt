@@ -1,25 +1,84 @@
-These are things that need to be done but I have no plans to work on any time soon.
-This also means that if some one does textures for these things it will likely be put in and not touched for a long time.
+If you have textures you made and would like them in the pack please create a pull request or post them on the Forum.
+Feel free to submit textures for any version of the pack. (1.2.X, 1.4.X, 1.5.X, 1.6.X)
 
-*Tree Logs (just so much stuff)
-*Leaves (just so much stuff)
-*Saplings (just so much stuff)
-*Planks (just so much stuff) **These need to match my new planks (sorry!)
+Please keep files no bigger than 16p.(unless your doing sheet textures for old versions)
 
-Extra Trees Mix Patterns (just so much stuff)
+Please use the template files for base colors and shading.
+(the template files also have the commonly used items already created so you only need to copy them out)
 
-Anything to do with Biblio Craft (nothing against the creator I just hate models)
+Please keep colors consistent.
+(I take into account what an item/block is made of along with that the original texture was when making a texture)
 
-Anything to do with Power Crystals (nothing against the creator it just may take me awhile to start on it)
+If you need to make a new material color add it to the template and label it in the text file.
 
-Anything that doesn't already have a texture in Metallurgy (just so much stuff)
+All dusts, ingots, blocks, and ores of the same kind from different mods should be the same texture.
+(there may be exceptions to this)
 
-Most anything in the Universal Electricity folder
+I recommend this site for a list of mods.
+(http://www.mmo-champion.com/threads/1210470)
 
-Steves Carts 2 (just so much stuff I need to figure out)(also I don't tend to mess with these things when I'm playing)
+Top Priority Stuff
+{
+	Tree Logs (just so much stuff)
+	Leaves (just so much stuff)
+	Saplings (just so much stuff)
+	Planks (just so much stuff) **These need to match my new planks (sorry!)
+	{
+		BOP
+		DartCraft
+		Forestry
+		Extra Trees (Binnie Mods)
+		IC2
+		MineFactory_Reloaded
+		Natura
+		Thaumcraft_4
+		Twilight_Forest
+		any other mod with trees
+	}
+	Finish
+	{
+		Twilight Forest
+		IC2 (or as much as possible with the updates)
+		Computer Craft
+		Iron Chests
+		Thermal Expansion
+		Forestry
+		Tinkers Construct
+		Applied Energistics
+		Railcraft
+		Steve's Carts 2 (alot of people seem to use it)
+		Extra Utilities
+	}
+}
 
-*Applies to these mods: (These have to match with ones of the same kind across mods)
-BOP
-Forestry
-Extra Trees (Binnie Mods)
-Natura
+Mods I plan to work on
+{
+	Reika's Mods (I know Reika)
+	Thermal Expansion
+	CC (mostly done)
+	Iron Chests (just have to do the dirt chest)
+	IC2 (mostly done)
+	Forestry (mostly done)
+	Tinkers Construct
+	EE3
+	Thaumcraft 4
+}
+
+Mods I don't plan on working on
+{
+	GregTech (so much stuff)(if you want to help with this one I have some files in the template repo that may help you)
+	Biblio Craft (so many models)
+	Binnie's Mods (so much stuff)
+	Anything in the UE section
+	Steve's Carts 2 (just so much stuff I need to figure out)(also I don't tend to mess with these things when I'm playing)
+	Any of the BC4 addons
+	Metallurgy
+	Nuclear Control's info panel
+}
+(I have nothing against the creators of the mods in this section.)*
+	*except Greg, for his texture naming system
+
+Finished Mods
+{
+	???
+}
