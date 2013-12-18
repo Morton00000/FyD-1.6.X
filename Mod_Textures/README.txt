@@ -8,7 +8,7 @@ BC4 --------------------------- 4.1.2
 BC4-Additional_Objects -------- 1.0.6.180
 BC4-Additional_Pipes ---------- 2.5.0
 BC4-Logistics_Pipes ----------- 0.7.4.dev.75
-BC4-TeleportPipes ------------- Pre1c
+BC4-Teleport_Pipes ------------ Pre1c
 BetterGrassAndLeavesMod ------- v1.6.2.H
 Biblio_Craft ------------------ v1.5.1
 Biblio_Woods-BOP -------------- v1.3
