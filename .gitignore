@@ -3,9 +3,6 @@
 *.ogg
 *.mtl
 *.class
-*.cmd
-*.xml
-*.properties
 FyD-Test
 Mod_Files
 Releases
