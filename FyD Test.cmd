@@ -1,5 +1,5 @@
 @ECHO OFF
 
-ant test
+gradle zipTest
 
 pause

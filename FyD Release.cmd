@@ -1,5 +1,5 @@
 @ECHO OFF
 
-ant release
+gradle zipAll
 
 pause

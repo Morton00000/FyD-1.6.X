@@ -1,5 +1,5 @@
 @ECHO OFF
 
-ant vanilla
+gradle zipVanilla
 
 pause
