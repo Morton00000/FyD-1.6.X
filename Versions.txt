@@ -1,5 +1,9 @@
 Versions:
 
+Vanilla_Minecraft ------------- 1.6.X-1.7.X
+
+MCPatcher-Optifine ------------ 1.6.X
+
 Agriculture ------------------- 1.0.6
 Applied_Energistics ----------- rv14-finale-mc16x
 ArsMagica_2 ------------------- 1.0.2b

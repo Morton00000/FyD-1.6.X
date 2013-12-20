@@ -4,5 +4,6 @@
 *.mtl
 *.class
 *.java
+*.lang
 FyD-Test
 FyD-Vanilla
