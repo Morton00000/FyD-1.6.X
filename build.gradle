@@ -1,5 +1,6 @@
 import groovy.io.FileType
 
+// If anyone knows a better way to do this please let me know or fix it for me
 FileTree all = fileTree(dir: 'Vanilla_Minecraft') + fileTree(dir: 'MCPatcher-Optifine') + fileTree(dir: 'Agriculture') + fileTree(dir: 'Applied_Energistics') + fileTree(dir: 'ArsMagica_2') + fileTree(dir: 'Barrels') + fileTree(dir: 'BC4') + fileTree(dir: 'BC4-Additional_Objects') + fileTree(dir: 'BC4-Additional_Pipes') + fileTree(dir: 'BC4-Logistics_Pipes') + fileTree(dir: 'BC4-Teleport_Pipes') + fileTree(dir: 'BetterGrassAndLeavesMod') + fileTree(dir: 'Biblio_Craft') + fileTree(dir: 'Biblio_WoodsBOP') + fileTree(dir: 'Biblio_WoodsForestry') + fileTree(dir: 'Biblio_WoodsNatura') + fileTree(dir: 'BiomesOPlenty') + fileTree(dir: 'Blood_Magic') + fileTree(dir: 'CB-Chicken_Chunks') + fileTree(dir: 'CB-Ender_Storage') + fileTree(dir: 'CB-Translocator') + fileTree(dir: 'CB-WRCBE') + fileTree(dir: 'CoFH-Core') + fileTree(dir: 'CoFH-Thermal_Expansion') + fileTree(dir: 'Computer_Craft') + fileTree(dir: 'Craftable_Horse_Armor') + fileTree(dir: 'DartCraft') + fileTree(dir: 'Den_Pipes') + fileTree(dir: 'Den_PipesEmerald') + fileTree(dir: 'Electrodynamics') + fileTree(dir: 'Emasher_Resource') + fileTree(dir: 'Enchanting_Plus') + fileTree(dir: 'EnderIO') + fileTree(dir: 'Engineers_Toolbox') + fileTree(dir: 'ExtrabiomesXL') + fileTree(dir: 'ExtraCells') + fileTree(dir: 'ExtraUtils') + fileTree(dir: 'Factorization') + fileTree(dir: 'Flatsigns') + fileTree(dir: 'Forestry') + fileTree(dir: 'Forestry-Binnie_Mods') + fileTree(dir: 'Forestry-Magic_Bees') + fileTree(dir: 'Forestry-Plugins') + fileTree(dir: 'Forge_Multipart') + fileTree(dir: 'Furniture_Mod') + fileTree(dir: 'GasCraft') + fileTree(dir: 'IC2') + fileTree(dir: 'IC2-Advanced_Machines(immibis)') + fileTree(dir: 'IC2-Advanced_Power_Management') + fileTree(dir: 'IC2-Advanced_Solar_Panels') + fileTree(dir: 'IC2-Charge_Pads') + fileTree(dir: 'IC2-Compact_Solars') + fileTree(dir: 'IC2-Gravi_Suite') + fileTree(dir: 'IC2-GregTech') + fileTree(dir: 'IC2-MFFS') + fileTree(dir: 'IC2-Nuclear_Control') + fileTree(dir: 'iChun-GravityGun') + fileTree(dir: 'iChun-Hats') + fileTree(dir: 'iChun-Morph') + fileTree(dir: 'iChun-PortalGun') + fileTree(dir: 'Immibis-Core') + fileTree(dir: 'Immibis-Microblocks') + fileTree(dir: 'Immibis-Peripherals') + fileTree(dir: 'Iron_Chest') + fileTree(dir: 'Metallurgy') + fileTree(dir: 'Misc_Peripherals') + fileTree(dir: 'MPS') + fileTree(dir: 'Mystcraft') + fileTree(dir: 'Natura') + fileTree(dir: 'NEI') + fileTree(dir: 'NEIAddons') + fileTree(dir: 'NEIPlugins') + fileTree(dir: 'Open_Blocks') + fileTree(dir: 'Open_Peripheral') + fileTree(dir: 'PC-Core') + fileTree(dir: 'PC-MineFactory_Reloaded') + fileTree(dir: 'PC-Nether_Ores') + fileTree(dir: 'PC-Power_Converters') + fileTree(dir: 'Project_Bench') + fileTree(dir: 'Project_Red') + fileTree(dir: 'Project_Zulu') + fileTree(dir: 'QuarryPlus') + fileTree(dir: 'Railcraft') + fileTree(dir: 'RedLogic') + fileTree(dir: 'Redstone_In_Motion') + fileTree(dir: 'Reika-DyeTrees') + fileTree(dir: 'Reika-EnderForest') + fileTree(dir: 'Reika-ExpandedRedstone') + fileTree(dir: 'Reika-GeoStrata') + fileTree(dir: 'Reika-ReactorCraft') + fileTree(dir: 'Reika-RotaryCraft') + fileTree(dir: 'Reika-UsefulTNT') + fileTree(dir: 'Reliquary') + fileTree(dir: 'Small_Boats') + fileTree(dir: 'SoulShards') + fileTree(dir: 'StevesCarts_2') + fileTree(dir: 'Switches') + fileTree(dir: 'TConstruct') + fileTree(dir: 'Thaumcraft_4') + fileTree(dir: 'Thaumic_Tinkerer') + fileTree(dir: 'Transitional_Assistance') + fileTree(dir: 'TrussMod') + fileTree(dir: 'Twilight_Forest') + fileTree(dir: 'UE-Atomic_Science') + fileTree(dir: 'UE-Basic_Components') + fileTree(dir: 'UE-Complex_Machines') + fileTree(dir: 'UE-DarkAssembly_Line') + fileTree(dir: 'UE-Galacticraft') + fileTree(dir: 'UE-ICBM') + fileTree(dir: 'UE-Mekanism') + fileTree(dir: 'UE-MFFS') + fileTree(dir: 'UE-Minechem_4') + fileTree(dir: 'UE-Resonant_Induction') + fileTree(dir: 'Witchery') + fileTree(dir: 'XACT')
 
 task zipAll(type: Zip) {
@@ -65,6 +66,7 @@ task zipPatcher(type: Zip) {
 	}
 }
 
+// Note this does not work if anyone can fix if please do
 task patcherMods
 
 rootProject.projectDir.eachFile(FileType.DIRECTORIES) {
@@ -73,6 +75,7 @@ rootProject.projectDir.eachFile(FileType.DIRECTORIES) {
 		exclude '.gradle'
 		exclude '.git'
 		exclude 'Old_Build_Files'
+		exclude 'Vanilla_Minecraft'
 		exclude '**/*.txt'
 		exclude '**/*.lang'
 		exclude '**/*.obj'
