@@ -10,6 +10,10 @@
 		<delete dir="${build.dir.development}\FyD-Test" />
 	</target>
 	
+	<target name="clean-Vanilla">
+		<delete dir="${build.dir.development}\FyD-Vanilla" />
+	</target>
+	
 	<target name="increment">
 		<propertyfile file="buildNumber.properties">
 			<entry key="number" type="int" operation="+" default="1"/>
@@ -24,7 +28,7 @@
 	
 	<target name="moveToFinish">
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Vanilla_Minecraft_Textures" />
+			<fileset dir="${build.dir.development}\Vanilla_Minecraft" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\MCPatcher-Optifine" />
@@ -363,18 +367,18 @@
 	
 	<target name="moveToFinish-Vanilla">
 		<copy todir="${build.dir.development}\FyD-Vanilla">
-			<fileset dir="${build-V.dir.development}\Vanilla_Minecraft_Textures" />
+			<fileset dir="${build-V.dir.development}\Vanilla_Minecraft" />
 		</copy>
 	</target>
 	
 	<target name="zipFinish">
-		<zip destfile="${build.dir.release}\${build.release.mod.name}-${build.release.mod.majorVersion}.${build.release.mod.minorVersion}.${number.number}.zip"
+		<zip destfile="${build.dir.release}\${build.release.mod.name}-${build.release.mod.majorVersion}-${build.release.mod.minorVersion}-${number.number}.zip"
        			basedir="${build.dir.development}\FyD-Test"
   		/>
 	</target>
 	
 	<target name="zipFinish-Vanilla">
-		<zip destfile="${build-V.dir.release}\${build-V.release.mod.name}-${build-V.release.mod.majorVersion}.${build-V.release.mod.minorVersion}.${number-V.number}.zip"
+		<zip destfile="${build-V.dir.release}\${build-V.release.mod.name}-${build-V.release.mod.majorVersion}-${build-V.release.mod.minorVersion}-${number-V.number}.zip"
        			basedir="${build-V.dir.development}\FyD-Vanilla"
   		/>
 	</target>
@@ -393,10 +397,10 @@
 	</target>
 	
 	<target name="vanilla">
-		<antcall target="clean" />
+		<antcall target="clean-Vanilla" />
 		<antcall target="moveToFinish-Vanilla" />
 		<antcall target="increment-Vanilla" />
 		<antcall target="zipFinish-Vanilla" />
-		<antcall target="clean" />
+		<antcall target="clean-Vanilla" />
 	</target>
 </project>
