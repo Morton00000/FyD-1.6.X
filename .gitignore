@@ -7,6 +7,7 @@
 *.lang
 *.zip
 *.jar
+*.blend
 .gradle
 FyD-Test
 FyD-Vanilla
