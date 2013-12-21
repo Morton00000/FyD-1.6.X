@@ -16,6 +16,11 @@ task zipAll(type: Zip) {
 	exclude '**/*.class'
 	exclude '**/*.obj'
 	exclude '**/*.blend'
+	exclude '**/*.csv'
+	exclude '**/*.list'
+	exclude '**/*.xml'
+	exclude '**/*.ogg'
+	exclude 'Applied_Energistics/*.properties'
 	doLast{
 		new File('Build_Main.txt').write(classifier + "", 'UTF-8')
 		copy{
@@ -38,6 +43,11 @@ task zipTest(type: Zip) {
 	exclude '**/*.class'
 	exclude '**/*.obj'
 	exclude '**/*.blend'
+	exclude '**/*.csv'
+	exclude '**/*.list'
+	exclude '**/*.xml'
+	exclude '**/*.ogg'
+	exclude 'Applied_Energistics/*.properties'
 }
 
 task zipVanilla(type: Zip) {
@@ -88,6 +98,11 @@ task zipPatcher(type: Zip) {
 		// exclude '**/*.class'
 		// exclude '**/*.obj'
 		// exclude '**/*.blend'
+		// exclude '**/*.csv'
+		// exclude '**/*.list'
+		// exclude '**/*.xml'
+		// exclude '**/*.ogg'
+		// exclude 'Applied_Energistics/*.properties'
 		// doLast{
 			// copy{
 				// from "zip${it.name}"

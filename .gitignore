@@ -8,6 +8,8 @@
 *.zip
 *.jar
 *.blend
+*.csv
+*.list
 .gradle
 FyD-Test
 FyD-Vanilla
