@@ -6,6 +6,8 @@ Joe9117 (various Mine Fantasy textures)(not in the 1.6.X version)
 
 Electro44 (Axe of the Stream)(I changed it though)
 
-slizz3r (various textures)
+slizz3r (various textures and GUIs)
 
 FoolInjection (Forestry tree textures)
+
+DrummingFish (tree textures for now)
