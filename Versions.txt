@@ -111,7 +111,7 @@ Project_Red ------------------- 4.2.0.14
 Project_Zulu ------------------ v1.1.6.2
 QuarryPlus -------------------- 1.5.4
 Railcraft --------------------- 8.2.0.0
-Random_Things ----------------- v. 1.8.5
+Random_Things ----------------- v1.8.5
 RedLogic ---------------------- 57.2.1
 Redstone_In_Motion ------------ 2.3.0.0_mc1.6
 Reika-DyeTrees ---------------- 1.6 v4b
