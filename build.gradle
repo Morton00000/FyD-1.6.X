@@ -8,19 +8,10 @@ task zipAll(type: Zip) {
 	appendix = '1.2-build'
 	classifier = Integer.parseInt(new File('Build_Main.txt').text) + 1
 	from all
-	exclude '.gradle'
-	exclude '.git'
-	exclude 'Old_Build_Files'
-	exclude '**/*.txt'
-	exclude '**/*.lang'
-	exclude '**/*.class'
-	exclude '**/*.obj'
-	exclude '**/*.blend'
-	exclude '**/*.csv'
-	exclude '**/*.list'
-	exclude '**/*.xml'
-	exclude '**/*.ogg'
-	exclude 'Applied_Energistics/*.properties'
+	include '**/*.png'
+	include '**/*.PNG'
+	include '**/*.mcmeta'
+	include '**/*.properties'
 	destinationDir = file('../FyD-Releases/1.6.X_Releases')
 	doLast{
 		new File('Build_Main.txt').write(classifier + "", 'UTF-8')
@@ -31,19 +22,10 @@ task zipTest(type: Zip) {
 	baseName = 'FYD-1.6.4'
 	appendix = 'test'
 	from all
-	exclude '.gradle'
-	exclude '.git'
-	exclude 'Old_Build_Files'
-	exclude '**/*.txt'
-	exclude '**/*.lang'
-	exclude '**/*.class'
-	exclude '**/*.obj'
-	exclude '**/*.blend'
-	exclude '**/*.csv'
-	exclude '**/*.list'
-	exclude '**/*.xml'
-	exclude '**/*.ogg'
-	exclude 'Applied_Energistics/*.properties'
+	include '**/*.png'
+	include '**/*.PNG'
+	include '**/*.mcmeta'
+	include '**/*.properties'
 }
 
 task zipVanilla(type: Zip) {
@@ -51,9 +33,8 @@ task zipVanilla(type: Zip) {
 	appendix = '1.1-build'
 	classifier = Integer.parseInt(new File('Build_Vanilla.txt').text) + 1
 	from 'Vanilla_Minecraft'
-	exclude '**/*.txt'
-	exclude '**/*.lang'
-	exclude '**/*.class'
+	include '**/*.png'
+	include '**/*.mcmeta'
 	destinationDir = file('../FyD-Releases/Vanilla_Releases')
 	doLast{
 		new File('Build_Vanilla.txt').write(classifier + "", 'UTF-8')
@@ -63,9 +44,8 @@ task zipVanilla(type: Zip) {
 task zipPatcher(type: Zip) {
 	baseName = 'Vanilla_1.6.X'
 	from 'Vanilla_Minecraft'
-	exclude '**/*.txt'
-	exclude '**/*.lang'
-	exclude '**/*.class'
+	include '**/*.png'
+	include '**/*.mcmeta'
 	destinationDir = file('../FyD-Patcher')
 }
 
@@ -76,20 +56,10 @@ rootProject.projectDir.eachFile(FileType.DIRECTORIES) { dir ->
         return
     task "zip_${dir.name}"(type: Zip) {
             from dir
-			exclude '.gradle'
-			exclude '.git'
-			exclude 'Old_Build_Files'
-			exclude 'Vanilla_Minecraft'
-			exclude '**/*.txt'
-			exclude '**/*.lang'
-			exclude '**/*.class'
-			exclude '**/*.obj'
-			exclude '**/*.blend'
-			exclude '**/*.csv'
-			exclude '**/*.list'
-			exclude '**/*.xml'
-			exclude '**/*.ogg'
-			exclude 'Applied_Energistics/*.properties'
+			include '**/*.png'
+			include '**/*.PNG'
+			include '**/*.mcmeta'
+			include '**/*.properties'
 			baseName = dir.name
 			destinationDir = file('../FyD-Patcher/1.6.X_Mods')
 	}
