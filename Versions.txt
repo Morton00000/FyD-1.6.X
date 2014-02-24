@@ -128,13 +128,15 @@ Railcraft --------------------- 8.3.2.0
 Random_Things ----------------- v1.8.5
 RedLogic ---------------------- 57.2.1
 Redstone_In_Motion ------------ 2.3.0.0_mc1.6
-Reika-DyeTrees ---------------- 1.6 v4b
-Reika-EnderForest ------------- 1.6 v4b
-Reika-ExpandedRedstone -------- 1.6 v4b
-Reika-GeoStrata --------------- 1.6 v4b
-Reika-ReactorCraft ------------ 1.6 v10
-Reika-RotaryCraft ------------- 1.6 v10e
-Reika-UsefulTNT --------------- 1.6 v4b
+Reika-DyeTrees ---------------- 1.6 v16
+Reika-EnderForest ------------- 1.6 v16
+Reika-ExpandedRedstone -------- 1.6 v16
+Reika-GeoStrata --------------- 1.6 v16
+Reika-MeteorCraft ------------- 1.6 v16
+Reika-ReactorCraft ------------ 1.6 v16
+Reika-RotaryCraft ------------- 1.6 v16c
+Reika-SpiderPet --------------- 1.6 v16
+Reika-UsefulTNT --------------- 1.6 v16
 Reliquary --------------------- 1.0
 RemoteIO ---------------------- 1.6.2
 Small_Boats ------------------- 0.10.6
