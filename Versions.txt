@@ -4,141 +4,154 @@ Vanilla_Minecraft ------------- 1.6.X-1.7.X
 
 MCPatcher-Optifine ------------ 1.6.X
 
-Advanced_Genetics ------------- v1.0
-Agriculture ------------------- 1.2.2
-Applied_Energistics ----------- rv14-finale3-mc16x
+Advanced_Genetics ------------- 1.2.1
+Agriculture ------------------- 1.2.10
+Applied_Energistics ----------- rv14-finale3
 Aquaculture ------------------- 1.2.4
 Arcane_Scrolls ---------------- 2.4.4.20
 Archimedes_Ships -------------- 1.4.5
-Aroma_1997_Core --------------- v.1.0.1.1
+Aroma_1997_Core --------------- .1.0.1.1
 ArsMagica_2 ------------------- 1.1.2b
 Artifice ---------------------- 1.1.3.185
-Backpack ---------------------- 1.22.25
+Backpack ---------------------- 1.26.29
 Barrels ----------------------- 3.3-1.6.4
 BattleTowers ------------------ 1.6.4
 BC4 --------------------------- 4.2.2
-BC4-Additional_Objects -------- 1.0.6.180
+BC4-Additional_Objects -------- 1.0.7.558
 BC4-Additional_Pipes ---------- 2.5.0
-BC4-Logistics_Pipes ----------- 0.7.4.dev.75
+BC4-Logistics_Pipes ----------- 0.7.4.dev.102
 BC4-Teleport_Pipes ------------ Pre1c
 Better_Chests ----------------- 1.1.0.0
 Better_Dungeons --------------- 207
-Better_Furnaces --------------- V3.4.dev
-Better_Grass_And_Leaves_Mod --- v1.6.2.H
-Better_Signs_Mod -------------- v1.6.4.B
-Biblio_Craft ------------------ v1.5.4
-Biblio_Woods-BOP -------------- v1.3
-Biblio_Woods-Forestry --------- v1.3
-Biblio_Woods-Natura ----------- v1.1
+Better_Furnaces --------------- 3.4.dev
+Better_Grass_And_Leaves_Mod --- 1.6.2.H
+Better_Signs_Mod -------------- 1.6.4.B
+Better_Storage ---------------- 0.7.3.38
+Biblio_Craft ------------------ 1.5.4
+Biblio_Woods-BOP -------------- 1.3
+Biblio_Woods-Forestry --------- 1.3
+Biblio_Woods-Highlands -------- 1.1
+Biblio_Woods-Natura ----------- 1.1
 Biomes-O-Plenty --------------- 1.2.1.434
-Blood_Magic ------------------- v0.6.5b
-Carpenters_Blocks ------------- v2.0.2
+Blood_Magic ------------------- 0.6.5b
+Carpenters_Blocks ------------- 2.0.2
 CB-Chicken_Chunks ------------- 1.3.3.3
 CB-Ender_Storage -------------- 1.4.3.5
 CB-Translocator --------------- 1.1.0.13
 CB-WR-CBE --------------------- 1.4.0.6
+Chisel ------------------------ 1.5.0fix
 Chococraft -------------------- 3.0.3
 CoFH-Core --------------------- 2.0.0.2
-CoFH-Omni_Tools --------------- ???
 CoFH-Thermal_Expansion -------- 3.0.0.2
 Computer_Craft ---------------- 1.58
 Craftable_Horse_Armor --------- 1.0.3.0
+CraftHeraldry ----------------- 1.0.3
 DartCraft --------------------- Beta 0.2.12
-Den_Pipes --------------------- 2.1.11
-Den_Pipes-Emerald ------------- 1.1.3
+Den_Pipes --------------------- 2.1.18
+Den_Pipes-Emerald ------------- 1.1.6
+Den_Pipes-Forestry ------------ 1.1.8
 Dimensional_Doors ------------- ???
-Dynamic_Tanks_2 --------------- v0.0.3
+Dynamic_Tanks_2 --------------- 0.0.6
 EE3 --------------------------- ???
 Electrodynamics --------------- Alpha-0.1.5.4
-Emasher_Resource -------------- 1.2.1.8
+Emasher_Resource -------------- 1.2.2.0
 Enchanting_Plus --------------- 1.16.5
 EnderIO ----------------------- 0.7.2.190
-Engineers_Toolbox ------------- 1.1.6.6
+Engineers_Toolbox ------------- 1.1.7.1
 Enhanced_Portals -------------- 3.0.0_Beta-3d
 ExtrabiomesXL ----------------- 3.14.2
 ExtraCells -------------------- 1.6.7d
 ExtraTiC ---------------------- 0.7.6
 ExtraUtils -------------------- 1.0.2
-Factorization ----------------- 0.8.10
+Factorization ----------------- 0.8.29
 Farlanders -------------------- 1.0
 Flatsigns --------------------- 1.4.0.15
 Forestry ---------------------- 2.3.1.1
-Forestry-Binnie_Mods ---------- 1.8-dev2
-Forestry-Magic_Bees ----------- 2.1.9
+Forestry-Binnie_Mods ---------- 1.8.0
+Forestry-Magic_Bees ----------- 2.1.11
 Forestry-Plug-ins ------------- 3.1.19
 Forge_Multipart --------------- 1.0.0.197
-Furniture_Mod ----------------- v3.2
+Furniture_Mod ----------------- 3.2
 Fyres_ModJam ------------------ 0.0.3d
-Ganys_End --------------------- v1.5.4
-Ganys_Nether ------------------ v1.5.2
-Ganys_Surface ----------------- v1.5.2
-GasCraft ---------------------- 2.0.3.2
-Gate_Copy --------------------- ???
+Ganys_End --------------------- 1.5.4
+Ganys_Nether ------------------ 1.5.2
+Ganys_Surface ----------------- 1.5.2
+GasCraft ---------------------- 2.0.4.1
+Gate_Copy --------------------- 3.1.4
+Gendustry --------------------- 1.0.3.41
 HardcoreEnderExpansion -------- 1.3.3
+Highlands --------------------- 2.1.7
 Hopper_Ducts_Mod -------------- 1.2.2
-IC2 --------------------------- 2.0.303-experimental
+IC2 --------------------------- 2.0.354-experimental
 IC2-Advanced_Machines --------- ???
 IC2-Advanced_Machines(immibis)- 57.0.0
 IC2-Advanced_Power_Management - 1.2.79
 IC2-Advanced_Solar_Panels ----- 3.3.10.1-IC_EXP
 IC2-Charge_Pads --------------- 3.0.0.94-experimental
-IC2-Compact_Solars ------------ 4.4.19.219
+IC2-Compact_Solars ------------ 4.4.19.272
+IC2-Compact_Windmills --------- 1.0.2.3
 IC2-Gravi_Suite --------------- 1.9.8-IC2 EXP
 IC2-GregTech ------------------ 4.04z
 IC2-MFFS ---------------------- 2.5.0
-IC2-Nuclear_Control ----------- 1.6.2c-ic2-experimental
+IC2-Nuclear_Control ----------- 1.6.2e-ic2-experimental
 iChun-GravityGun -------------- 2.0.0
 iChun-Hats -------------------- 2.0.2
 iChun-Morph ------------------- Beta-0.3.0
-iChun-PortalGun --------------- 2.0.1
+iChun-PortalGun --------------- 2.0.2
+iChun-Sync -------------------- 2.1.0
 Iguana_Tweaks_TConstruct ------ 1p-build7
 Immibis-Core ------------------ 57.1.4
 Immibis-Microblocks ----------- 57.2.3
 Immibis-Peripherals ----------- 57.0.0
-Iron_Chest -------------------- 5.4.1.680
-JABBA ------------------------- 1.0.1
+Iron_Chest -------------------- 5.4.1.697
+JABBA ------------------------- 1.0.3
 LavaMonsters ------------------ 2.2
 Legendary_Beasts_Alpha -------- 1.6.4.0
 LycanitesMobsComplete --------- 1.4.3 
 Magical_Crops ----------------- 3.1.6
+Mariculture ------------------- 1.1.4e
 Metallurgy -------------------- 3.3.2
+Mimicry ----------------------- 1.3.8.1
 Mine_Fantasy ------------------ ???
 Misc_Peripherals -------------- 3.4b2
-MPS --------------------------- 0.8.0-44
-MPS-Add-ons ------------------- ???
-Mystcraft --------------------- 0.10.11.00
+MPS --------------------------- 0.9.0-84
+MPS-Add-ons ------------------- 884
+Mystcraft --------------------- 0.10.12.01
 Natura ------------------------ 2.1.14
 NEI --------------------------- 1.6.1.8
 NEI-Add-ons ------------------- 1.9.4.r51
 NEI-Plug-ins ------------------ 1.1.0.6
 Open_Blocks ------------------- 1.2.4
 Open_Mods_Lib ----------------- 0.1
-Open_Peripheral --------------- 0.2.1-83
+Open_Peripheral-Add-ons ------- 0.1.0-snapshot-41
 Pams-Harvest_Craft ------------ 1.1.4
-PC-Core ----------------------- 1.1.8-9
+PC-Core ----------------------- 1.1.8-10
 PC-MineFactory_Reloaded ------- 2.7.4-255
-PC-Nether_Ores ---------------- 2.2.1-14
-PC-Power_Converters ----------- 1.6.4-20
+PC-Nether_Ores ---------------- 2.2.2B1-16
+PC-Power_Converters ----------- 2.4.0pre3
 Plant_Mega_Pack --------------- 2.13
-Project_Bench ----------------- v1.8.0
-Project_Red ------------------- 4.2.0.14
-Project_Zulu ------------------ v1.1.6.2
-QuarryPlus -------------------- 1.5.4
+Project_Bench ----------------- 1.8.0
+Project_Red ------------------- 4.2.2.19
+Project_Zulu ------------------ 1.1.6.2
+qCraft ------------------------ 1.1
+QuarryPlus -------------------- 1.0.1
 Railcraft --------------------- 8.3.2.0
-Random_Things ----------------- v1.8.5
+Random_Things ----------------- 1.8.9
 RedLogic ---------------------- 57.2.1
 Redstone_In_Motion ------------ 2.3.0.0_mc1.6
-Reika-DyeTrees ---------------- 1.6 v16
-Reika-EnderForest ------------- 1.6 v16
-Reika-ExpandedRedstone -------- 1.6 v16
-Reika-GeoStrata --------------- 1.6 v16
-Reika-MeteorCraft ------------- 1.6 v16
-Reika-ReactorCraft ------------ 1.6 v16
-Reika-RotaryCraft ------------- 1.6 v16c
-Reika-SpiderPet --------------- 1.6 v16
-Reika-UsefulTNT --------------- 1.6 v16
-Reliquary --------------------- 1.0
-RemoteIO ---------------------- 1.6.2
+Redstone_Arsenal -------------- 1.0.0.0
+Reika-DragonAPI --------------- 1.6 V17
+Reika-DyeTrees ---------------- 1.6 v17
+Reika-EnderForest ------------- 1.6 v17
+Reika-ExpandedRedstone -------- 1.6 v17
+Reika-GeoStrata --------------- 1.6 v17
+Reika-MeteorCraft ------------- 1.6 v17
+Reika-ReactorCraft ------------ 1.6 v17b
+Reika-RotaryCraft ------------- 1.6 v17b
+Reika-SpiderPet --------------- 1.6 v17
+Reika-UsefulTNT --------------- 1.6 v17
+Reliquary --------------------- 1.1.1
+RemoteIO ---------------------- 1.9.3a
 Small_Boats ------------------- 0.10.6
 SoulShards -------------------- 1.0.39-universal-srg
 SpecialMobs ------------------- 2.6
@@ -146,22 +159,25 @@ StevesCarts_2 ----------------- 2.0.0.b10
 Switches ---------------------- 1.3.0.25
 TConstruct -------------------- 1.5.2.6
 Thaumcraft_4 ------------------ 4.0.5b
-Thaumic_Tinkerer -------------- 2.0-26
+Thaumic_Tinkerer -------------- 2.1-67
 TMechworks -------------------- 0.1.3
 Transitional_Assistance ------- b1.9.07
 TrussMod ---------------------- 1.6.4-30
-Twilight_Forest --------------- 1.20.2
-UE-Atomic_Science ------------- v1.0.0.145
-UE-Basic_Components ----------- v1.0.0.18
-UE-Complex_Machines ----------- v0.3.3.129
-UE-Dark-Assembly_Line --------- v0.2.0.92
+Twilight_Forest --------------- 1.20.3
+UE-Atomic_Science ------------- 1.1.0.49
+UE-Basic_Components ----------- 1.0.0.18
+UE-Big_Reactors --------------- 0.2.15A
+UE-Calclavia_Core ------------- 1.1.1.68
+UE-Complex_Machines ----------- 0.3.3.129
+UE-Dark-Assembly_Line --------- 0.2.0.92
 UE-Galacticraft --------------- a0.1.43.732
-UE-ICBM ----------------------- v1.3.3.254
-UE-Mekanism ------------------- v5.5.7.211
-UE-MFFS ----------------------- v3.4.0.231
+UE-ICBM ----------------------- 1.4.1.254
+UE-MadScience ----------------- 0.81
+UE-Mekanism ------------------- 5.5.7.211
+UE-MFFS ----------------------- 3.6.2.9
 UE-Minechem_4 ----------------- 413
-UE-Resonant_Induction --------- v0.2.2.204
+UE-Resonant_Induction --------- 0.3.1.265
 UndergroundBiomes ------------- 0.4.2c
 Utility_Mobs ------------------ 2.1
 Witchery ---------------------- 0-11-3_164
-XACT -------------------------- 0.4.2c
+XACT -------------------------- 0.4.3
