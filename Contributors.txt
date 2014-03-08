@@ -2,7 +2,7 @@ Greevir (help with GUIs and various other textures)
 
 thaaaz (various textures)(inspiration for the some of the new ore textures)
 
-Joe9117 (various Mine Fantasy textures)(not in the 1.6.X version)
+Joe9117 (various Mine Fantasy textures and other textures)(not in the 1.6.X version)
 
 Electro44 (Axe of the Stream)(I changed it though)
 
@@ -10,4 +10,6 @@ slizz3r (various textures and GUIs)
 
 FoolInjection (Forestry tree textures)
 
-DrummingFish (tree textures for now)
+DrummingFish (some tree textures)
+
+Solid Kupo (various textures and GUIs)
