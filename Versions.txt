@@ -3,17 +3,15 @@ Vanilla_Minecraft ------------- 1.6.X-1.7.X
 MCPatcher-Optifine ------------ 1.6.X
 
 Advanced_Genetics ------------- 1.2.1
-Agriculture ------------------- 1.2.10
 Applied_Energistics ----------- rv14-finale3
-Aquaculture ------------------- 1.2.4
 Arcane_Scrolls ---------------- 2.4.4.20
 Archimedes_Ships -------------- 1.4.5
-Aroma_1997_Core --------------- .1.0.1.1
-ArsMagica_2 ------------------- 1.1.2b
+Aroma_1997_Core --------------- 1.0.1.1
+Ars_Magica_2 ------------------ 1.1.2b
 Artifice ---------------------- 1.1.3.185
 Backpack ---------------------- 1.26.29
-Barrels ----------------------- 3.3-1.6.4
-BattleTowers ------------------ 1.6.4
+Barrels ----------------------- 3.3
+Battle_Towers ----------------- 1.6.4
 BC4 --------------------------- 4.2.2
 BC4-Additional_Objects -------- 1.0.7.558
 BC4-Additional_Pipes ---------- 2.5.0
@@ -42,28 +40,26 @@ Chococraft -------------------- 3.0.3
 CoFH-Core --------------------- 2.0.0.2
 CoFH-Thermal_Expansion -------- 3.0.0.2
 Computer_Craft ---------------- 1.58
+Craft_Heraldry ---------------- 1.0.3
 Craftable_Horse_Armor --------- 1.0.3.0
-CraftHeraldry ----------------- 1.0.3
-DartCraft --------------------- Beta 0.2.12
+Dart_Craft -------------------- Beta 0.2.12
 Den_Pipes --------------------- 2.1.18
 Den_Pipes-Emerald ------------- 1.1.6
 Den_Pipes-Forestry ------------ 1.1.8
-Dimensional_Doors ------------- ???
 Dynamic_Tanks_2 --------------- 0.0.6
-EE3 --------------------------- ???
 Electrodynamics --------------- Alpha-0.1.5.4
 Emasher_Resource -------------- 1.2.2.0
 Enchanting_Plus --------------- 1.16.5
-EnderIO ----------------------- 0.7.2.190
+Ender_IO ---------------------- 0.7.2.190
 Engineers_Toolbox ------------- 1.1.7.1
 Enhanced_Portals -------------- 3.0.0_Beta-3d
-ExtrabiomesXL ----------------- 3.14.2
-ExtraCells -------------------- 1.6.7d
-ExtraTiC ---------------------- 0.7.6
-ExtraUtils -------------------- 1.0.2
+Extra_Cells ------------------- 1.6.7d
+Extra_TiC --------------------- 0.7.6
+Extra_Utils ------------------- 1.0.2
+Extrabiomes_XL ---------------- 3.14.2
 Factorization ----------------- 0.8.29
 Farlanders -------------------- 1.0
-Flatsigns --------------------- 1.4.0.15
+Flat_Signs -------------------- 1.4.0.15
 Forestry ---------------------- 2.3.1.1
 Forestry-Binnie_Mods ---------- 1.8.0
 Forestry-Magic_Bees ----------- 2.1.11
@@ -73,14 +69,13 @@ Furniture_Mod ----------------- 3.2
 Ganys_End --------------------- 1.5.4
 Ganys_Nether ------------------ 1.5.2
 Ganys_Surface ----------------- 1.5.2
-GasCraft ---------------------- 2.0.4.1
+Gas_Craft --------------------- 2.0.4.1
 Gate_Copy --------------------- 3.1.4
 Gendustry --------------------- 1.0.3.41
-HardcoreEnderExpansion -------- 1.3.3
+Hardcore_Ender_Expansion ------ 1.3.3
 Highlands --------------------- 2.1.7
 Hopper_Ducts_Mod -------------- 1.2.2
 IC2 --------------------------- 2.0.354-experimental
-IC2-Advanced_Machines --------- ???
 IC2-Advanced_Machines(immibis)- 57.0.0
 IC2-Advanced_Power_Management - 1.2.79
 IC2-Advanced_Solar_Panels ----- 3.3.10.1-IC_EXP
@@ -102,14 +97,12 @@ Immibis-Microblocks ----------- 57.2.3
 Immibis-Peripherals ----------- 57.0.0
 Iron_Chest -------------------- 5.4.1.697
 JABBA ------------------------- 1.0.3
-LavaMonsters ------------------ 2.2
+Lava_Monsters ----------------- 2.2
 Legendary_Beasts_Alpha -------- 1.6.4.0
-LycanitesMobsComplete --------- 1.4.3 
+Lycanites-Mobs_Complete ------- 1.4.3 
 Magical_Crops ----------------- 3.1.6
 Mariculture ------------------- 1.1.4e
-Metallurgy -------------------- 3.3.2
 Mimicry ----------------------- 1.3.8.1
-Mine_Fantasy ------------------ ???
 Misc_Peripherals -------------- 3.4b2
 MPS --------------------------- 0.9.0-84
 MPS-Add-ons ------------------- 884
@@ -131,12 +124,12 @@ Project_Bench ----------------- 1.8.0
 Project_Red ------------------- 4.2.2.19
 Project_Zulu ------------------ 1.1.6.2
 qCraft ------------------------ 1.1
-QuarryPlus -------------------- 1.0.1
+Quarry_Plus ------------------- 1.0.1
 Railcraft --------------------- 8.3.2.0
 Random_Things ----------------- 1.8.9
 RedLogic ---------------------- 57.2.1
-Redstone_In_Motion ------------ 2.3.0.0_mc1.6
 Redstone_Arsenal -------------- 1.0.0.0
+Redstone_In_Motion ------------ 2.3.0.0
 Reika-DragonAPI --------------- 1.6 V17
 Reika-DyeTrees ---------------- 1.6 v17
 Reika-EnderForest ------------- 1.6 v17
@@ -148,34 +141,33 @@ Reika-RotaryCraft ------------- 1.6 v17b
 Reika-SpiderPet --------------- 1.6 v17
 Reika-UsefulTNT --------------- 1.6 v17
 Reliquary --------------------- 1.1.1
-RemoteIO ---------------------- 1.9.3a
+Remote_IO --------------------- 1.9.3a
 Small_Boats ------------------- 0.10.6
-SoulShards -------------------- 1.0.39-universal-srg
-SpecialMobs ------------------- 2.6
-StevesCarts_2 ----------------- 2.0.0.b10
+Soul_Shards ------------------- 1.0.39
+Special_Mobs ------------------ 2.6
+Steves_Carts_2 ---------------- 2.0.0.b10
 Switches ---------------------- 1.3.0.25
-TConstruct -------------------- 1.5.2.6
+TeamMet-Agriculture ----------- 1.2.10
+TeamMet-Aquaculture ----------- 1.2.4
+TeamMet-Metallurgy ------------ 3.3.2
 Thaumcraft_4 ------------------ 4.0.5b
 Thaumic_Tinkerer -------------- 2.1-67
 The_You_Will_Die_Mod ---------- 0.0.3d
-TMechworks -------------------- 0.1.3
+Tinkers_Construct ------------- 1.5.2.6
+Tinkers_Mechworks ------------- 0.1.3
 Transitional_Assistance ------- b1.9.07
-TrussMod ---------------------- 1.6.4-30
+Truss_Mod --------------------- 1.6.4-30
 Twilight_Forest --------------- 1.20.3
 UE-Atomic_Science ------------- 1.1.0.49
-UE-Basic_Components ----------- 1.0.0.18
 UE-Big_Reactors --------------- 0.2.15A
 UE-Calclavia_Core ------------- 1.1.1.68
-UE-Complex_Machines ----------- 0.3.3.129
-UE-Dark-Assembly_Line --------- 0.2.0.92
 UE-Galacticraft --------------- 2.0.7.904
 UE-ICBM ----------------------- 1.4.1.254
 UE-MadScience ----------------- 0.81
 UE-Mekanism ------------------- 5.6.0.658
 UE-MFFS ----------------------- 3.6.2.9
-UE-Minechem_4 ----------------- 413
 UE-Resonant_Induction --------- 0.3.1.265
-UndergroundBiomes ------------- 0.4.2c
+Underground_Biomes ------------ 0.4.2c
 Utility_Mobs ------------------ 2.1
 Witchery ---------------------- 0-11-3_164
 XACT -------------------------- 0.4.3
