@@ -23,5 +23,9 @@
 *.sh
 *.java
 *.mtl
+*.DS_Store
+*.gif
+*.lua
+*.File
 .gradle
 FyD_Test
